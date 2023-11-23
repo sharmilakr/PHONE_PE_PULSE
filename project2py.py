@@ -18,7 +18,7 @@ st.sidebar.header(":wave: :purple[**Welcome to dashboard!**]")
 mydb = pymysql.connect(host="127.0.0.1",
                    user="root",
                    port = 3306,
-                   password="Vishnu@1987",
+                   password="***********",
                    database = "phone_pe_pulse"
                    )
 
